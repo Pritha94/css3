@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+h1 {
+    color: #CDD4FF;
+    font-size: 15px;
+    background-color: cadetblue;
+}
+
+p {
+    background-color: burlywood;
+}
+
+span {
+    background-color: blueviolet;
+}
