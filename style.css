@@ -8,12 +8,54 @@ h1 {
     color: #CDD4FF;
     font-size: 15px;
     background-color: cadetblue;
+    /* border: 2px solid red; */
+    margin: 10px 10px 20px 20px;
 }
 
 p {
     background-color: burlywood;
+    /* border-top: 12px outset rgb(0, 255, 21);
+    border-right: 12px inset green;
+    border-bottom: 12px solid red;
+    border-left: 12px double violet; */
+    border: 5px solid red;
+    outline-style: solid;
+    outline-width: 8px;
+    outline-color: green;
+    outline-offset: 5px;
+    padding: 10px 10px 10px 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 span {
     background-color: blueviolet;
 }
+
+
+/* CSS Broder Property border style */
+
+
+/*
+    Border-Width
+    Border-Style
+        solid
+        dotted
+        dashed
+        double
+        groove
+        ridge
+        inset
+        outset
+        none
+        mix            
+    Border-Color    
+ */
+
+
+/* 
+ * css outline property
+  outline-width
+  outline-style
+  outline-color
+  outline-offset
+ */
